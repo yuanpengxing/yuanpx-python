@@ -25,6 +25,7 @@ class CurlConvert:
 
     @classmethod
     def to_script(cls, script_save, convert):
+        # 生成python脚本
         with open(script_save, 'w') as wf:
             wf.write('# -*- coding: UTF-8 -*-' + LF)
             split = convert.strip(LF).strip(LF).split(LF)

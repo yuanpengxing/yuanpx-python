@@ -6,6 +6,7 @@ import time
 
 from douyin.to_python import publish
 from douyin.to_python.videos_author import py001
+from utils.time import TimeUtil
 
 
 def start():
@@ -20,8 +21,10 @@ def start():
                 publish.data['aweme_id'] = aweme_id
                 publish.data['text'] = '我主页里的才是真极品，视频里的还略差一点!'
                 print(publish.do())
-            else:
+                print(TimeUtil.getTimeFormat2(timestamp))
                 print(desc)
+            else:
+                pass
         time.sleep(15)
 
 

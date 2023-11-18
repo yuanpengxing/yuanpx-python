@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="040e4c1f-048e-48f8-856c-02e7c0ad4bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表/昕 昕.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/douyin/to_python/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/douyin/to_python/videos_author/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/douyin/to_python/videos_author/py001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/douyin/to_python/videos_home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortune/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortune/download/Table.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortune/download/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortune/download/down_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortune/download/down_sdltgd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortune/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortune/utils/details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortune/utils/eastmoney.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortune/utils/klines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortune/utils/sdltgd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/convert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/random_videos.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/videos_home/random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/douyin/to_python/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/run.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,45 +24,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douyin/to_python/convert.py">
+        <entry file="file://$PROJECT_DIR$/fortune/download/down_details.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" column="75" lean-forward="true" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
-              <folding>
-                <element signature="e#41#82#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douyin/to_python/videos_home/random.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douyin/to_python/publish.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1428" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douyin/to_python/videos_author/py001.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state relative-caret-position="700">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/douyin/to_python/run.py">
+        <entry file="file://$PROJECT_DIR$/fortune/utils/eastmoney.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="181">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fortune/download/down_sdltgd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding>
-                <element signature="e#41#52#0" expanded="true" />
+                <element signature="e#41#85#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,6 +79,10 @@
         <option value="$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表/testa.txt" />
         <option value="$PROJECT_DIR$/douyin/to_python/convert.py" />
         <option value="$PROJECT_DIR$/douyin/to_python/run.py" />
+        <option value="$PROJECT_DIR$/fortune/utils/details.py" />
+        <option value="$PROJECT_DIR$/fortune/utils/eastmoney.py" />
+        <option value="$PROJECT_DIR$/fortune/download/down_details.py" />
+        <option value="$PROJECT_DIR$/fortune/download/down_sdltgd.py" />
       </list>
     </option>
   </component>
@@ -114,23 +107,6 @@
               <item name="yuanpx-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="yuanpx-python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="yuanpx-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yuanpx-python" type="462c0819:PsiDirectoryNode" />
-              <item name="douyin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yuanpx-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yuanpx-python" type="462c0819:PsiDirectoryNode" />
-              <item name="douyin" type="462c0819:PsiDirectoryNode" />
-              <item name="CopyAscURLBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yuanpx-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yuanpx-python" type="462c0819:PsiDirectoryNode" />
-              <item name="douyin" type="462c0819:PsiDirectoryNode" />
-              <item name="to_python" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -141,15 +117,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/douyin/CopyAscURLBase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fortune/download" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\fortune\utils" />
       <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\to_python\videos_home" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\fortune\download" />
+      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\fortune\utils" />
       <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\CopyAscURLBase" />
       <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\toutiao\CopyAs" />
       <recent name="D:\yuanpx-python\utils\jjmeter" />
@@ -167,29 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
-    <configuration name="JMeterUtil" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="yuanpx-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils/jjmeter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/jjmeter/JMeterUtil.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.down_details">
     <configuration name="ScriptsGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yuanpx-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,6 +183,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douyin/to_python/convert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="down_details" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yuanpx-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fortune/download" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fortune/download/down_details.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.down_details" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python.convert" />
         <item itemvalue="Python.ScriptsGenerator" />
         <item itemvalue="Python.string" />
-        <item itemvalue="Python.JMeterUtil" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +278,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700275712134</updated>
       <workItem from="1700275713399" duration="11651000" />
-      <workItem from="1700293581130" duration="4299000" />
+      <workItem from="1700293581130" duration="7134000" />
     </task>
     <task id="LOCAL-00001" summary="douyin">
       <created>1700294414983</created>
@@ -308,21 +287,28 @@
       <option name="project" value="LOCAL" />
       <updated>1700294414983</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="douyin">
+      <created>1700299049647</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700299049647</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15950000" />
+    <option name="totallyTimeSpent" value="18785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15809768" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28167117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -353,7 +339,8 @@
     <SUITE FILE_PATH="coverage/yuanpx_python$JMeterUtil.coverage" NAME="JMeterUtil Coverage Results" MODIFIED="1700279750637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/jjmeter" />
     <SUITE FILE_PATH="coverage/yuanpx_python$ScriptsGenerator.coverage" NAME="ScriptsGenerator Coverage Results" MODIFIED="1700287446113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/jjmeter" />
     <SUITE FILE_PATH="coverage/yuanpx_python$string.coverage" NAME="string Coverage Results" MODIFIED="1700283235258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/yuanpx_python$run.coverage" NAME="run Coverage Results" MODIFIED="1700298873319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin/to_python" />
+    <SUITE FILE_PATH="coverage/yuanpx_python$run.coverage" NAME="run Coverage Results" MODIFIED="1700300709580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin/to_python" />
+    <SUITE FILE_PATH="coverage/yuanpx_python$down_details.coverage" NAME="down_details Coverage Results" MODIFIED="1700306415363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fortune/download" />
     <SUITE FILE_PATH="coverage/yuanpx_python$testa.coverage" NAME="testa Coverage Results" MODIFIED="1700277989976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
   <component name="editorHistoryManager">
@@ -434,13 +421,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/curlpython.py" />
-    <entry file="file://$PROJECT_DIR$/utils/file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1875255826/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
@@ -536,11 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douyin/to_python/publish.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1428" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/douyin/to_python/videos_author/py001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
@@ -548,13 +523,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/douyin/to_python/publish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1411" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/douyin/to_python/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="171">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
           <folding>
-            <element signature="e#41#52#0" expanded="true" />
+            <element signature="e#42#53#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fortune/utils/details.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#53#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fortune/utils/klines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fortune/utils/sdltgd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fortune/download/Table.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fortune/MinuteDetails/2023-11-17/000056.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fortune/download/down_details.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fortune/download/down_sdltgd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="e#41#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fortune/utils/eastmoney.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>

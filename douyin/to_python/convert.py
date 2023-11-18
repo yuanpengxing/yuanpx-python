@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 # author: yuanpx
+
 import os
 
 from utils.curlconvert import CurlConvert
@@ -29,10 +30,22 @@ def user_list():
         savedir = './videos_author/'
         save = os.path.join(savedir, scriptname)
         create_py(file, save)
-        create_runner(savedir, scriptname, 'aaaa')
+        commit = '比我主页的视美女稍微略差一点，不过老师的身材也是炸裂'
+        create_runner(savedir, scriptname, commit)
+
+
+def user_runner(cURLBash, comment):
+    # 单个生成py文件
+    userdir = '../CopyAscURLBase/用户列表/'
+    scriptname = os.path.basename(userdir + cURLBash)[:9] + '_a.py'
+    savedir = './videos_author/'
+    save = os.path.join(savedir, scriptname)
+    create_py(userdir + cURLBash, save)
+    create_runner(savedir, scriptname, comment)
 
 
 if __name__ == '__main__':
     # create_py('..\CopyAscURLBase\发表评论.txt', 'publish.py')
-    user_list()
+    # user_list()
+    user_runner('Author002_咩咩阿银呀.txt', '比我主页的美女稍微略差一些，不过老师的身材也是炸裂')
     pass

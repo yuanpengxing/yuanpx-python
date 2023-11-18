@@ -22,7 +22,7 @@ def start():
             desc = aweme['desc']
             if (timestamp - float(create_time)) < 20:
                 publish.data['aweme_id'] = aweme_id
-                publish.data['text'] = 'aaaa'
+                publish.data['text'] = '比我主页的视美女稍微略差一点，不过老师的身材也是炸裂'
                 print(publish.do())
                 print(TimeUtil.getTimeFormat2(timestamp))
                 print(desc)

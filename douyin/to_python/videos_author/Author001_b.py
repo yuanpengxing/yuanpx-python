@@ -22,7 +22,7 @@ def start():
             desc = aweme['desc']
             if (timestamp - float(create_time)) < 20:
                 publish.data['aweme_id'] = aweme_id
-                publish.data['text'] = 'aaaa'
+                publish.data['text'] = ''
                 print(publish.do())
                 print(TimeUtil.getTimeFormat2(timestamp))
                 print(desc)

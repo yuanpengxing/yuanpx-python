@@ -72,6 +72,11 @@ class FileUtil:
         return os.path.join(path1, path2)
 
     @classmethod
+    def append(cls, filename, text):
+        with open(filename, 'a') as f:
+            f.write(text)
+
+    @classmethod
     def write(cls, filename, text):
         with open(filename, 'w') as f:
             f.write(text)

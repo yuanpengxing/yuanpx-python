@@ -39,5 +39,5 @@ def create_single(cURLBash, comment):
 
 
 if __name__ == '__main__':
-    # create_single('Author002_咩咩阿银呀.txt', '比我主页的视美女稍微略差一点，不过老师的身材也是炸裂')
-    create_batch()
+    create_single('Author002_咩咩阿银呀.txt', '比我主页的美女稍微略差一些，不过老师的身材也是炸裂')
+    # create_batch()

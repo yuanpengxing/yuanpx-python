@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 # author: yuanpx
-import os
+from utils.file import FileUtil
 
-print(os.path.abspath(os.sep))
+FileUtil.write('testa.txt', 'aaaa', module='a')
+FileUtil.write('testa.txt', 'aaaa', module='a')

@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="040e4c1f-048e-48f8-856c-02e7c0ad4bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/douyin/to_python/converter/authorlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/douyin/to_python/home_list/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douyin/CopyAscURLBase/AuthorList/Author003_桃桃sama.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douyin/CopyAscURLBase/AuthorList/Author004_璐璐璐璐璐.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表/Author001_昕 昕.txt" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/CopyAscURLBase/AuthorList/Author001_昕 昕.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表/Author002_咩咩阿银呀.txt" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/CopyAscURLBase/AuthorList/Author002_咩咩阿银呀.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表获取模板.txt" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表获取模板.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/convert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/videos_author/Author001_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/author_list/Author001_a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/videos_author/Author001_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/author_list/Author001_b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/videos_author/Author002_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/author_list/Author002_a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/videos_author/Author002_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/author_list/Author002_b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/videos_author/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/author_list/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/videos_author/run001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/videos_author/testa.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/videos_home/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/converter/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douyin/to_python/videos_home/random.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/home_list/feed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/douyin/to_python/author_list/Author000_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/author_list/Author000_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/douyin/to_python/author_list/Author001_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/author_list/Author001_b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/douyin/to_python/author_list/Author002_a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douyin/to_python/author_list/Author002_b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douyin/to_python/converter/authorlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/to_python/converter/authorlist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/testa.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/testa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/file.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,31 +23,70 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douyin/to_python/converter/authorlist.py">
+        <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author000_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+            <state relative-caret-position="353">
+              <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
               <folding>
-                <element signature="e#41#50#0" expanded="true" />
+                <element signature="e#42#58#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author001_a.py">
+        <entry file="file://$PROJECT_DIR$/test/testa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="112">
+              <caret line="4" selection-start-line="4" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/testa.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/douyin/to_python/converter/authorlist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="74" column="14" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author001_b.py">
+        <entry file="file://$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表获取模板.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+            <state relative-caret-position="489">
+              <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author002_a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-193" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author002_b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -100,10 +133,16 @@
         <option value="$PROJECT_DIR$/douyin/to_python/videos_author/Author003_b.py" />
         <option value="$PROJECT_DIR$/douyin/to_python/videos_author/Author001_b.py" />
         <option value="$PROJECT_DIR$/douyin/to_python/converter/createpy_single.py" />
-        <option value="$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表获取模板.txt" />
-        <option value="$PROJECT_DIR$/test/testa.py" />
         <option value="$PROJECT_DIR$/douyin/to_python/convert.py" />
+        <option value="$PROJECT_DIR$/douyin/to_python/author_list/Author00000.py" />
+        <option value="$PROJECT_DIR$/douyin/to_python/author_list/Author001_b.py" />
+        <option value="$PROJECT_DIR$/douyin/CopyAscURLBase/AuthorList/Author003_桃桃sama.txt" />
+        <option value="$PROJECT_DIR$/douyin/CopyAscURLBase/AuthorList/Author004_璐璐璐璐璐.txt" />
         <option value="$PROJECT_DIR$/douyin/to_python/converter/authorlist.py" />
+        <option value="$PROJECT_DIR$/test/testa.py" />
+        <option value="$PROJECT_DIR$/utils/file.py" />
+        <option value="$PROJECT_DIR$/douyin/to_python/author_list/Author000_1.py" />
+        <option value="$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表获取模板.txt" />
       </list>
     </option>
   </component>
@@ -128,6 +167,23 @@
               <item name="yuanpx-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="yuanpx-python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="yuanpx-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yuanpx-python" type="462c0819:PsiDirectoryNode" />
+              <item name="douyin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yuanpx-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yuanpx-python" type="462c0819:PsiDirectoryNode" />
+              <item name="douyin" type="462c0819:PsiDirectoryNode" />
+              <item name="CopyAscURLBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yuanpx-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yuanpx-python" type="462c0819:PsiDirectoryNode" />
+              <item name="douyin" type="462c0819:PsiDirectoryNode" />
+              <item name="to_python" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -138,22 +194,22 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/douyin/CopyAscURLBase/AuthorList" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\CopyAscURLBase\AuthorList" />
+      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\to_python\author_list" />
+      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\CopyAscURLBase\用户列表" />
+      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\CopyAscURLBase" />
+      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\to_python\videos_author" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\to_python\run" />
       <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\fortune\utils" />
       <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\to_python\videos_home" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\CopyAscURLBase\用户列表" />
-      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\CopyAscURLBase" />
-      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\to_python\videos_author" />
-      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\douyin\to_python\run" />
-      <recent name="C:\Users\Think\PycharmProjects\yuanpx-python\fortune\utils" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -168,8 +224,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.authorlist">
-    <configuration name="Author002_b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Author000_1">
+    <configuration name="Author000_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yuanpx-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,12 +233,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douyin/to_python/videos_author" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douyin/to_python/author_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douyin/to_python/videos_author/Author002_b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douyin/to_python/author_list/Author000_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,11 +337,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Author000_1" />
         <item itemvalue="Python.authorlist" />
-        <item itemvalue="Python.convert" />
         <item itemvalue="Python.testa (1)" />
+        <item itemvalue="Python.convert" />
         <item itemvalue="Python.Author003_b" />
-        <item itemvalue="Python.Author002_b" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +357,7 @@
       <updated>1700275712134</updated>
       <workItem from="1700275713399" duration="11651000" />
       <workItem from="1700293581130" duration="16922000" />
-      <workItem from="1700357907101" duration="3712000" />
+      <workItem from="1700357907101" duration="8837000" />
     </task>
     <task id="LOCAL-00001" summary="douyin">
       <created>1700294414983</created>
@@ -345,21 +401,36 @@
       <option name="project" value="LOCAL" />
       <updated>1700317688569</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="eastmoney">
+      <created>1700361773238</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700361773238</updated>
+    </task>
+    <task id="LOCAL-00008" summary="eastmoney">
+      <created>1700362695671</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700362695671</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32285000" />
+    <option name="totallyTimeSpent" value="37410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20758355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28167117" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34501347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -387,9 +458,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/yuanpx_python$tencent.coverage" NAME="tencent Coverage Results" MODIFIED="1700306922761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fortune/utils" />
+    <SUITE FILE_PATH="coverage/yuanpx_python$Author000_1.coverage" NAME="Author000_1 Coverage Results" MODIFIED="1700381456844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin/to_python/author_list" />
     <SUITE FILE_PATH="coverage/yuanpx_python$convert.coverage" NAME="convert Coverage Results" MODIFIED="1700360040187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin/to_python" />
-    <SUITE FILE_PATH="coverage/yuanpx_python$testa__1_.coverage" NAME="testa (1) Coverage Results" MODIFIED="1700359761706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/yuanpx_python$authorlist.coverage" NAME="authorlist Coverage Results" MODIFIED="1700361724971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin/to_python/converter" />
+    <SUITE FILE_PATH="coverage/yuanpx_python$testa__1_.coverage" NAME="testa (1) Coverage Results" MODIFIED="1700380489157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/yuanpx_python$authorlist.coverage" NAME="authorlist Coverage Results" MODIFIED="1700381397066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin/to_python/converter" />
     <SUITE FILE_PATH="coverage/yuanpx_python$string.coverage" NAME="string Coverage Results" MODIFIED="1700283235258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/yuanpx_python$publish.coverage" NAME="publish Coverage Results" MODIFIED="1700315476225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin/to_python" />
     <SUITE FILE_PATH="coverage/yuanpx_python$Author003_b.coverage" NAME="Author003_b Coverage Results" MODIFIED="1700316203294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin/to_python/videos_author" />
@@ -404,16 +476,6 @@
     <SUITE FILE_PATH="coverage/yuanpx_python$run002.coverage" NAME="run002 Coverage Results" MODIFIED="1700312039420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin/to_python/run" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/testb.py" />
-    <entry file="file://$PROJECT_DIR$/utils/curlpython.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1875255826/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="4698" column="6" selection-start-line="4698" selection-start-column="6" selection-end-line="4698" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/jjmeter/testa.py" />
     <entry file="file://$PROJECT_DIR$/utils/jjmeter/curlpython.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -570,36 +632,8 @@
     <entry file="file://$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表/Author003_安吉拉·怀特.txt" />
     <entry file="file://$PROJECT_DIR$/douyin/to_python/videos_author/Author003_a.py" />
     <entry file="file://$PROJECT_DIR$/douyin/to_python/videos_author/Author003_b.py" />
-    <entry file="file://$PROJECT_DIR$/utils/file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表获取模板.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/testa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/douyin/to_python/converter/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douyin/to_python/publish.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/curlconvert.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -632,39 +666,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author002_a.py">
+    <entry file="file://$PROJECT_DIR$/douyin/CopyAscURLBase/AuthorList/Author003_桃桃sama.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-402" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author002_b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="53" />
+        <state relative-caret-position="364">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douyin/to_python/converter/authorlist.py">
+    <entry file="file://$PROJECT_DIR$/douyin/CopyAscURLBase/AuthorList/Author004_璐璐璐璐璐.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-          <folding>
-            <element signature="e#41#50#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="364">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douyin/to_python/publish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author001_a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="532">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author001_b.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        <state relative-caret-position="353">
+          <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douyin/to_python/converter/authorlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author002_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testa.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="74" column="14" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author002_b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douyin/to_python/author_list/Author000_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="e#42#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douyin/CopyAscURLBase/用户列表获取模板.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
         </state>
       </provider>
     </entry>

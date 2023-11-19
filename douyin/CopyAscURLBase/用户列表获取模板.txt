@@ -11,7 +11,7 @@ from utils.time import TimeUtil
 
 def start():
     while True:
-        module = importlib.import_module('scriptname')
+        module = importlib.import_module('Script Name')
         method = getattr(module, 'do')
         resp = method()
         aweme_list = json.loads(resp)['aweme_list']

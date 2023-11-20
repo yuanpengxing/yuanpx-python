@@ -37,3 +37,10 @@ def dict_find_diff(dict1, dict2):
     return (set1 - same_set, set2 - same_set)
 
 
+a = ['a', 'b', 'c']
+b = ['b', 'c', 'd']
+
+print(list(set(b).difference(set(a))))  # b中有而a中没有的
+print(type(list(set(b).difference(set(a)))))  # b中有而a中没有的
+print(list(set(a).union(set(b))))
+print(list(set(a).intersection(set(b))))

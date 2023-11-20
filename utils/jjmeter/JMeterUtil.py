@@ -44,6 +44,7 @@ def requests_info(copyAscURLBash):
     copys = url_bash_copys(copyAscURLBash)
     requests_info = []
     for copy in copys:
+        filename = os.path.basename(copyAscURLBash).strip('.txt')
         save = os.path.dirname(__file__) + '/curlpython.py'
         converter = CurlConvert.to_python(copy)
         CurlConvert.to_script(save, converter)
@@ -58,17 +59,19 @@ def requests_info(copyAscURLBash):
             'headers': headers,
             'method': method,
             'data': data,
-            'params': params
+            'params': params,
+            'name': filename
         }
         requests_info.append(info)
     return requests_info
 
 
-def getSampler(request):
+def getSampler(request, use_filename=False):
     headers, url, method, data = request['headers'], request['url'], request['method'], request['data']
-    params = request['params']
+    params, filename = request['params'], request['name']
     uri = urlparse(url)
     protocol, hostname, port, path, query = uri.scheme, uri.hostname, uri.port, uri.path, uri.query
+    urlpath = path
     if params:
         for key, value in params.items():
             query += key + '=' + value + '&amp;'
@@ -78,6 +81,8 @@ def getSampler(request):
             path = path + '?' + query
     if not port:
         port = ''
+    if use_filename:
+        urlpath = filename
     httpSampler = '''
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="%s" enabled="true">
           <stringProp name="HTTPSampler.domain">%s</stringProp>
@@ -94,7 +99,7 @@ def getSampler(request):
           <stringProp name="HTTPSampler.connect_timeout"></stringProp>
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
         </HTTPSamplerProxy>
-    ''' % (path, hostname, port, protocol, path, method)
+    ''' % (urlpath, hostname, port, protocol, path, method)
     return insert_before_line(httpSampler, getElementProp(data, headers), 'HTTPSampler.domain')
 
 

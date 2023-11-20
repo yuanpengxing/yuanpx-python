@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: yuanpx
-
+import importlib
+import json
 import os
 
 from douyin.to_python import convert
@@ -24,7 +25,7 @@ def create_batch():
         savedir = rootpath + '/douyin/to_python/author_list/'
         py_a = os.path.join(savedir, scriptname)
         createpy_a(file, py_a)
-        commit = '比我主页的视美女稍微略差一点，不过老师的身材也是炸裂'
+        commit = '比我主页的视频美女稍微略差一些，不过老师的身材也是炸裂'
         createpy_b(py_a, commit)
 
 
@@ -38,6 +39,21 @@ def create_single(cURLBash, comment):
     createpy_b(py_a, comment)
 
 
+def author_list(script_name):
+    # script_name = Author001_a
+    module = importlib.import_module('douyin.to_python.author_list.' + script_name)
+    method = getattr(module, 'do')
+    aweme_list = json.loads(method())['aweme_list']
+    aweme_dt = {}
+    for aweme in aweme_list:
+        aweme_dt[aweme['aweme_id']] = {
+            'nickname': aweme['author']['nickname'],
+            'desc': aweme['desc'],
+            'create_time': aweme['create_time']
+        }
+    return aweme_dt
+
+
 if __name__ == '__main__':
-    create_single('Author002_咩咩阿银呀.txt', '比我主页的美女稍微略差一些，不过老师的身材也是炸裂')
-    # create_batch()
+    # create_single('Author002_咩咩阿银呀.txt', '比我主页的美女稍微略差一些，不过老师的身材也是炸裂')
+    create_batch()
